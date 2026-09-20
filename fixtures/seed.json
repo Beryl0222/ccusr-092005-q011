@@ -1,0 +1,7 @@
+{
+  "project": "隐翅虫暴露事件观察",
+  "records": [
+    {"id": "incident-campus-001", "kind": "exposure", "place": "学校宿舍", "contact": "拍打虫体", "skin_area": "前臂", "reported_at": "2026-09-19T22:15:00+08:00"},
+    {"id": "location-riverside-park", "kind": "risk_site", "features": ["水边", "绿化带", "夜间照明"], "season": "5月至10月中下旬"}
+  ]
+}
